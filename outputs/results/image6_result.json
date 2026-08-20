@@ -1,0 +1,357 @@
+{
+  "image": "image6.jpeg",
+  "persons": [
+    {
+      "person_id": 1,
+      "bbox": [
+        47.715911865234375,
+        15.599732398986816,
+        122.91988372802734,
+        191.86915588378906
+      ],
+      "keypoints": [
+        {
+          "id": 0,
+          "name": "nose",
+          "x": null,
+          "y": null,
+          "confidence": null,
+          "reliable": false
+        },
+        {
+          "id": 1,
+          "name": "left_eye",
+          "x": null,
+          "y": null,
+          "confidence": null,
+          "reliable": false
+        },
+        {
+          "id": 2,
+          "name": "right_eye",
+          "x": null,
+          "y": null,
+          "confidence": null,
+          "reliable": false
+        },
+        {
+          "id": 3,
+          "name": "left_ear",
+          "x": 74.01179504394531,
+          "y": 30.417613983154297,
+          "confidence": 0.6810799241065979,
+          "reliable": true
+        },
+        {
+          "id": 4,
+          "name": "right_ear",
+          "x": 90.1049575805664,
+          "y": 29.81814956665039,
+          "confidence": 0.7120848298072815,
+          "reliable": true
+        },
+        {
+          "id": 5,
+          "name": "left_shoulder",
+          "x": 64.828125,
+          "y": 48.17451095581055,
+          "confidence": 0.9915937185287476,
+          "reliable": true
+        },
+        {
+          "id": 6,
+          "name": "right_shoulder",
+          "x": 93.79035186767578,
+          "y": 47.842994689941406,
+          "confidence": 0.9931455850601196,
+          "reliable": true
+        },
+        {
+          "id": 7,
+          "name": "left_elbow",
+          "x": 54.8876838684082,
+          "y": 70.85826873779297,
+          "confidence": 0.9221712350845337,
+          "reliable": true
+        },
+        {
+          "id": 8,
+          "name": "right_elbow",
+          "x": 101.0981216430664,
+          "y": 71.98928833007812,
+          "confidence": 0.9315088391304016,
+          "reliable": true
+        },
+        {
+          "id": 9,
+          "name": "left_wrist",
+          "x": 62.36975860595703,
+          "y": 71.08195495605469,
+          "confidence": 0.7222205996513367,
+          "reliable": true
+        },
+        {
+          "id": 10,
+          "name": "right_wrist",
+          "x": 97.35356140136719,
+          "y": 75.07208251953125,
+          "confidence": 0.7404013276100159,
+          "reliable": true
+        },
+        {
+          "id": 11,
+          "name": "left_hip",
+          "x": 69.85761260986328,
+          "y": 96.55744934082031,
+          "confidence": 0.9980637431144714,
+          "reliable": true
+        },
+        {
+          "id": 12,
+          "name": "right_hip",
+          "x": 91.40535736083984,
+          "y": 96.93441009521484,
+          "confidence": 0.998233437538147,
+          "reliable": true
+        },
+        {
+          "id": 13,
+          "name": "left_knee",
+          "x": 64.65018463134766,
+          "y": 139.6268768310547,
+          "confidence": 0.9970930814743042,
+          "reliable": true
+        },
+        {
+          "id": 14,
+          "name": "right_knee",
+          "x": 98.64733123779297,
+          "y": 139.35630798339844,
+          "confidence": 0.9974174499511719,
+          "reliable": true
+        },
+        {
+          "id": 15,
+          "name": "left_ankle",
+          "x": 60.00434875488281,
+          "y": 183.0030517578125,
+          "confidence": 0.9750282764434814,
+          "reliable": true
+        },
+        {
+          "id": 16,
+          "name": "right_ankle",
+          "x": 105.59883880615234,
+          "y": 181.6446075439453,
+          "confidence": 0.9773280620574951,
+          "reliable": true
+        }
+      ],
+      "features": {
+        "left_elbow_angle": 68.0485034468105,
+        "right_elbow_angle": 112.62548531252612,
+        "left_knee_angle": 179.2194057509804,
+        "right_knee_angle": 179.64667553344353,
+        "mean_elbow_angle": 90.33699437966831,
+        "mean_knee_angle": 179.43304064221195,
+        "elbow_angle_difference": 44.576981865715624,
+        "knee_angle_difference": 0.42726978246312797,
+        "shoulder_width": 28.96412467956543,
+        "hip_width": 21.551040649414062,
+        "shoulder_to_hip": 48.75510787963867,
+        "wrist_distance": 35.21061706542969,
+        "ankle_distance": 45.614723205566406,
+        "left_arm_length": 32.2516303062439,
+        "right_arm_length": 30.078195571899414,
+        "left_leg_length": 87.00735855102539,
+        "right_leg_length": 85.89146041870117,
+        "left_wrist_relative_y": 23.073204040527344,
+        "right_wrist_relative_y": 27.063331604003906,
+        "left_knee_relative_y": 42.880950927734375,
+        "right_knee_relative_y": 42.610382080078125
+      },
+      "classification": {
+        "activity": "Standing",
+        "confidence": 0.9,
+        "rule": "extended_legs",
+        "reason": "Both knees are predominantly extended"
+      }
+    },
+    {
+      "person_id": 2,
+      "bbox": [
+        119.81420135498047,
+        6.739895820617676,
+        160.11465454101562,
+        141.63088989257812
+      ],
+      "keypoints": [
+        {
+          "id": 0,
+          "name": "nose",
+          "x": 135.83860778808594,
+          "y": 16.274080276489258,
+          "confidence": 0.9125749468803406,
+          "reliable": true
+        },
+        {
+          "id": 1,
+          "name": "left_eye",
+          "x": 138.2720947265625,
+          "y": 14.190251350402832,
+          "confidence": 0.920452892780304,
+          "reliable": true
+        },
+        {
+          "id": 2,
+          "name": "right_eye",
+          "x": 0.0,
+          "y": 0.0,
+          "confidence": 0.36096951365470886,
+          "reliable": true
+        },
+        {
+          "id": 3,
+          "name": "left_ear",
+          "x": 145.8256378173828,
+          "y": 16.322786331176758,
+          "confidence": 0.9374818205833435,
+          "reliable": true
+        },
+        {
+          "id": 4,
+          "name": "right_ear",
+          "x": null,
+          "y": null,
+          "confidence": null,
+          "reliable": false
+        },
+        {
+          "id": 5,
+          "name": "left_shoulder",
+          "x": 152.46429443359375,
+          "y": 30.070598602294922,
+          "confidence": 0.9977869987487793,
+          "reliable": true
+        },
+        {
+          "id": 6,
+          "name": "right_shoulder",
+          "x": 135.1590576171875,
+          "y": 31.705425262451172,
+          "confidence": 0.9740879535675049,
+          "reliable": true
+        },
+        {
+          "id": 7,
+          "name": "left_elbow",
+          "x": 154.8422088623047,
+          "y": 48.266929626464844,
+          "confidence": 0.9966394901275635,
+          "reliable": true
+        },
+        {
+          "id": 8,
+          "name": "right_elbow",
+          "x": 127.3343276977539,
+          "y": 53.694496154785156,
+          "confidence": 0.8818439841270447,
+          "reliable": true
+        },
+        {
+          "id": 9,
+          "name": "left_wrist",
+          "x": 142.70518493652344,
+          "y": 33.125587463378906,
+          "confidence": 0.9947900772094727,
+          "reliable": true
+        },
+        {
+          "id": 10,
+          "name": "right_wrist",
+          "x": 125.23423767089844,
+          "y": 42.27336120605469,
+          "confidence": 0.9133847951889038,
+          "reliable": true
+        },
+        {
+          "id": 11,
+          "name": "left_hip",
+          "x": 146.49444580078125,
+          "y": 70.07343292236328,
+          "confidence": 0.9997288584709167,
+          "reliable": true
+        },
+        {
+          "id": 12,
+          "name": "right_hip",
+          "x": 135.62957763671875,
+          "y": 69.89745330810547,
+          "confidence": 0.9988718628883362,
+          "reliable": true
+        },
+        {
+          "id": 13,
+          "name": "left_knee",
+          "x": 144.52027893066406,
+          "y": 101.90506744384766,
+          "confidence": 0.9992432594299316,
+          "reliable": true
+        },
+        {
+          "id": 14,
+          "name": "right_knee",
+          "x": 136.83213806152344,
+          "y": 100.78298950195312,
+          "confidence": 0.9970520734786987,
+          "reliable": true
+        },
+        {
+          "id": 15,
+          "name": "left_ankle",
+          "x": 147.21273803710938,
+          "y": 133.75518798828125,
+          "confidence": 0.990728497505188,
+          "reliable": true
+        },
+        {
+          "id": 16,
+          "name": "right_ankle",
+          "x": 142.6094970703125,
+          "y": 130.16856384277344,
+          "confidence": 0.9797690510749817,
+          "reliable": true
+        }
+      ],
+      "features": {
+        "left_elbow_angle": 31.269744211955818,
+        "right_elbow_angle": 30.006926867763354,
+        "left_knee_angle": 171.6190600177708,
+        "right_knee_angle": 171.10697664568022,
+        "mean_elbow_angle": 30.638335539859586,
+        "mean_knee_angle": 171.36301833172553,
+        "elbow_angle_difference": 1.262817344192463,
+        "knee_angle_difference": 0.5120833720905864,
+        "shoulder_width": 17.382286071777344,
+        "hip_width": 10.866292953491211,
+        "shoulder_to_hip": 39.194000244140625,
+        "wrist_distance": 19.720947265625,
+        "ankle_distance": 5.835554599761963,
+        "left_arm_length": 37.75639724731445,
+        "right_arm_length": 34.952396392822266,
+        "left_leg_length": 63.856515884399414,
+        "right_leg_length": 60.85705757141113,
+        "left_wrist_relative_y": 2.2375755310058594,
+        "right_wrist_relative_y": 11.38534927368164,
+        "left_knee_relative_y": 31.91962432861328,
+        "right_knee_relative_y": 30.79754638671875
+      },
+      "classification": {
+        "activity": "Standing",
+        "confidence": 0.9,
+        "rule": "extended_legs",
+        "reason": "Both knees are predominantly extended"
+      }
+    }
+  ]
+}

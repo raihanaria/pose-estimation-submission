@@ -1,0 +1,292 @@
+{
+    "image": "images.jpeg",
+    "person_count": 2,
+    "persons": [
+        {
+            "person_id": 1,
+            "pose_quality": 0.765,
+            "activity": "Standing",
+            "activity_score": 1.0,
+            "classification_margin": 0.55,
+            "classification_reliable": true,
+            "keypoints": [
+                {
+                    "name": "nose",
+                    "x": 203.9611358642578,
+                    "y": 148.03741455078125,
+                    "confidence": 0.5550169944763184,
+                    "reliable": true
+                },
+                {
+                    "name": "left_eye",
+                    "x": 0.0,
+                    "y": 0.0,
+                    "confidence": 0.028491729870438576,
+                    "reliable": false
+                },
+                {
+                    "name": "right_eye",
+                    "x": 204.45838928222656,
+                    "y": 141.96385192871094,
+                    "confidence": 0.7174595594406128,
+                    "reliable": true
+                },
+                {
+                    "name": "left_ear",
+                    "x": 0.0,
+                    "y": 0.0,
+                    "confidence": 0.039015963673591614,
+                    "reliable": false
+                },
+                {
+                    "name": "right_ear",
+                    "x": 189.1044464111328,
+                    "y": 142.69668579101562,
+                    "confidence": 0.9685540795326233,
+                    "reliable": true
+                },
+                {
+                    "name": "left_shoulder",
+                    "x": 142.4249725341797,
+                    "y": 170.60130310058594,
+                    "confidence": 0.9239199161529541,
+                    "reliable": true
+                },
+                {
+                    "name": "right_shoulder",
+                    "x": 185.51495361328125,
+                    "y": 176.1154327392578,
+                    "confidence": 0.9963001608848572,
+                    "reliable": true
+                },
+                {
+                    "name": "left_elbow",
+                    "x": 0.0,
+                    "y": 0.0,
+                    "confidence": 0.4916549026966095,
+                    "reliable": false
+                },
+                {
+                    "name": "right_elbow",
+                    "x": 228.69866943359375,
+                    "y": 187.60943603515625,
+                    "confidence": 0.9911909699440002,
+                    "reliable": true
+                },
+                {
+                    "name": "left_wrist",
+                    "x": 0.0,
+                    "y": 0.0,
+                    "confidence": 0.4330974817276001,
+                    "reliable": false
+                },
+                {
+                    "name": "right_wrist",
+                    "x": 258.8008728027344,
+                    "y": 168.14556884765625,
+                    "confidence": 0.9548373222351074,
+                    "reliable": true
+                },
+                {
+                    "name": "left_hip",
+                    "x": 137.01614379882812,
+                    "y": 295.3562316894531,
+                    "confidence": 0.992131769657135,
+                    "reliable": true
+                },
+                {
+                    "name": "right_hip",
+                    "x": 164.4690704345703,
+                    "y": 298.59625244140625,
+                    "confidence": 0.9985238909721375,
+                    "reliable": true
+                },
+                {
+                    "name": "left_knee",
+                    "x": 144.1738739013672,
+                    "y": 384.7445983886719,
+                    "confidence": 0.9710587859153748,
+                    "reliable": true
+                },
+                {
+                    "name": "right_knee",
+                    "x": 168.63565063476562,
+                    "y": 389.7720947265625,
+                    "confidence": 0.9943104982376099,
+                    "reliable": true
+                },
+                {
+                    "name": "left_ankle",
+                    "x": 144.71774291992188,
+                    "y": 471.90948486328125,
+                    "confidence": 0.820432186126709,
+                    "reliable": true
+                },
+                {
+                    "name": "right_ankle",
+                    "x": 164.2497100830078,
+                    "y": 479.808349609375,
+                    "confidence": 0.9195572733879089,
+                    "reliable": true
+                }
+            ],
+            "scores": {
+                "Standing": 1.0,
+                "Shooting": 0.2,
+                "Walking": 0.2,
+                "Running": 0.0,
+                "Jumping": 0.45
+            },
+            "evidence": {
+                "Standing": 4,
+                "Shooting": 1,
+                "Walking": 1,
+                "Running": 0,
+                "Jumping": 2
+            }
+        },
+        {
+            "person_id": 2,
+            "pose_quality": 0.647,
+            "activity": "Unknown",
+            "activity_score": 0.3,
+            "classification_margin": 0.1,
+            "classification_reliable": false,
+            "keypoints": [
+                {
+                    "name": "nose",
+                    "x": 0.0,
+                    "y": 0.0,
+                    "confidence": 0.06179841607809067,
+                    "reliable": false
+                },
+                {
+                    "name": "left_eye",
+                    "x": 0.0,
+                    "y": 0.0,
+                    "confidence": 0.0066470010206103325,
+                    "reliable": false
+                },
+                {
+                    "name": "right_eye",
+                    "x": 0.0,
+                    "y": 0.0,
+                    "confidence": 0.06990431994199753,
+                    "reliable": false
+                },
+                {
+                    "name": "left_ear",
+                    "x": 388.19659423828125,
+                    "y": 148.51864624023438,
+                    "confidence": 0.6552867889404297,
+                    "reliable": true
+                },
+                {
+                    "name": "right_ear",
+                    "x": 435.1652526855469,
+                    "y": 152.0304718017578,
+                    "confidence": 0.9796926975250244,
+                    "reliable": true
+                },
+                {
+                    "name": "left_shoulder",
+                    "x": 361.67095947265625,
+                    "y": 193.23858642578125,
+                    "confidence": 0.9829081296920776,
+                    "reliable": true
+                },
+                {
+                    "name": "right_shoulder",
+                    "x": 440.8312683105469,
+                    "y": 196.91201782226562,
+                    "confidence": 0.9982592463493347,
+                    "reliable": true
+                },
+                {
+                    "name": "left_elbow",
+                    "x": 369.6488037109375,
+                    "y": 229.34031677246094,
+                    "confidence": 0.575015664100647,
+                    "reliable": true
+                },
+                {
+                    "name": "right_elbow",
+                    "x": 485.9512023925781,
+                    "y": 210.04446411132812,
+                    "confidence": 0.9756410121917725,
+                    "reliable": true
+                },
+                {
+                    "name": "left_wrist",
+                    "x": 0.0,
+                    "y": 0.0,
+                    "confidence": 0.20172123610973358,
+                    "reliable": false
+                },
+                {
+                    "name": "right_wrist",
+                    "x": 497.24725341796875,
+                    "y": 175.88812255859375,
+                    "confidence": 0.6945570111274719,
+                    "reliable": true
+                },
+                {
+                    "name": "left_hip",
+                    "x": 355.53778076171875,
+                    "y": 352.6478576660156,
+                    "confidence": 0.987966001033783,
+                    "reliable": true
+                },
+                {
+                    "name": "right_hip",
+                    "x": 406.830810546875,
+                    "y": 355.1622314453125,
+                    "confidence": 0.9963076114654541,
+                    "reliable": true
+                },
+                {
+                    "name": "left_knee",
+                    "x": 364.91363525390625,
+                    "y": 462.70587158203125,
+                    "confidence": 0.6847497820854187,
+                    "reliable": true
+                },
+                {
+                    "name": "right_knee",
+                    "x": 404.3482666015625,
+                    "y": 467.6269226074219,
+                    "confidence": 0.87453693151474,
+                    "reliable": true
+                },
+                {
+                    "name": "left_ankle",
+                    "x": 0.0,
+                    "y": 0.0,
+                    "confidence": 0.12500859797000885,
+                    "reliable": false
+                },
+                {
+                    "name": "right_ankle",
+                    "x": 0.0,
+                    "y": 0.0,
+                    "confidence": 0.21683643758296967,
+                    "reliable": false
+                }
+            ],
+            "scores": {
+                "Standing": 0.3,
+                "Shooting": 0.0,
+                "Walking": 0.0,
+                "Running": 0.0,
+                "Jumping": 0.2
+            },
+            "evidence": {
+                "Standing": 1,
+                "Shooting": 0,
+                "Walking": 0,
+                "Running": 0,
+                "Jumping": 1
+            }
+        }
+    ]
+}
